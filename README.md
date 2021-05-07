@@ -1,4 +1,4 @@
-# LAB - Class 03
+# LAB - Class 02
 
 ## Project:basic-express-server
 
@@ -6,10 +6,10 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/MohdAzzam/server-deployment-practice/actions)
-- 
-- [back-end server -dev](https://azzam-server-deploy-dev.herokuapp.com/)
-- 
+- [ci/cd](https://github.com/MohdAzzam/basic-express-server/actions)
+  
+- [back-end server](https://azzam-basic-express-server.herokuapp.com/person?name)
+  
 
 
 ### Setup
